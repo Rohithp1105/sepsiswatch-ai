@@ -5,3 +5,6 @@ plotly
 scikit-learn
 joblib
 xgboost
+boto3
+awscrt
+awsiot
