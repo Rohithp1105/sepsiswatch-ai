@@ -8,3 +8,4 @@ xgboost
 boto3
 awscrt
 awsiot
+streamlit-autorefresh
